@@ -62,7 +62,12 @@ In this session we ran through the process of adding, staging, and committing fi
 <p align="center">
 <img src="./images/fig_vscode_1topush.png" alt="drawing" width="150"/>
 </p>
-In this example there is one commit ready to be pushed to main.
+In this example there is one commit ready to be pushed to the remote repo.
+
+<p align="center">
+<img src="./images/fig_vscode_2topush.png" alt="drawing" width="150"/>
+</p>
+In this example there are two commits ready to be pushed to the remote repo.
 
 
 We took turns adding and changing files, looking to see how we can tell if we are behind or ahead of the main repo (note in starling, dev = main)
