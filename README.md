@@ -51,7 +51,22 @@ git push
 
 ```
 
-folk and public keys 
+fork and public keys
 
-The quick brown fox jumps over the lazy dog
+#### First session:
 
+In this session we ran through the process of adding, staging, and committing files to a github repo via the terminal and via VSCode. We also briefly discussed the possibility of editing files directly in the repo, although we didn't do that.
+
+
+
+We took turns adding and changing files, looking to see how we can tell if we are behind or ahead of the main repo (note in starling, dev = main)
+
+TLDR:
+```
+git add <filename.extension>
+git commit -m "useful commit message"
+git push
+```
+
+Potentially useful resources:
+[The Turing Way](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html) guide to starting using Github.
