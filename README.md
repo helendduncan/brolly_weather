@@ -59,6 +59,10 @@ fork and public keys
 
 In this session we ran through the process of adding, staging, and committing files to a github repo via the terminal and via VSCode. We also briefly discussed the possibility of editing files directly in the repo, although we didn't do that.
 
+<p align="center">
+<img src="./images/fig_vscode_1topush.png" alt="drawing" width="150"/>
+</p>
+In this example there is one commit ready to be pushed to main.
 
 
 We took turns adding and changing files, looking to see how we can tell if we are behind or ahead of the main repo (note in starling, dev = main)
