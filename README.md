@@ -1,8 +1,10 @@
 # Brolly Weather Repo
+
 Because it looks like it is going to rain today.
 
 The first thing I did after making this repo was to clone it to my local machine. I did this via:
-```
+
+```bash
 git clone git@github.com:helendduncan/brolly_weather.git
 ```
 
@@ -12,7 +14,7 @@ Most repos have a `README.md` file which is where I put the most important or he
 
 I am typing this on my local machine, and I will push it to remote via the following commands...
 
-```
+```bash
 git status
 >>> On branch main
 >>> Your branch is up to date with 'origin/main'.
