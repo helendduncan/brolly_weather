@@ -1,0 +1,6 @@
+git checkout
+# going into a branch 
+git fetch 
+# are there any changes?
+git pull
+# get the latest version 
