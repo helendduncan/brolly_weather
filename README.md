@@ -90,9 +90,7 @@ The photographers are Gavin Allanwood, and Tuva Mathilde Loland.
 <img src="./images/gavin_hairspray.jpg" alt="drawing" width="150"/>
 </p>
 
-<p align="center">
-<img src="./images/tuva_hairspray.jpg" alt="drawing" width="150"/>
-</p>
+DELETE ONE PICTURE
 
 Create a branch called images or something similar and add some images to this README on your own branch. Compare the READMEs on the main branch and your own branch.
 
