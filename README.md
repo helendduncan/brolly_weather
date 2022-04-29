@@ -81,3 +81,17 @@ git push
 
 Potentially useful resources:
 [The Turing Way](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html) guide to starting using Github.
+
+
+## Branches and merges
+I've added a couple of images. They are from the free image site unspash.com. I searched for the keyword hairspray.
+The photographers are Gavin Allanwood, and Tuva Mathilde Loland.
+<p align="center">
+<img src="./images/gavin_hairspray.jpg" alt="drawing" width="150"/>
+</p>
+
+<p align="center">
+<img src="./images/tuva_hairspray.jpg" alt="drawing" width="150"/>
+</p>
+
+Create a branch called images or something similar and add some images to this README on your own branch. Compare the READMEs on the main branch and your own branch.
